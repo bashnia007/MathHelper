@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/MathHelper/v15/Server/sqlite3
+/MathHelper/bin/Debug
+/MathHelper/obj
+/packages
+/UnitTest.MathHelper/bin/Debug
+/UnitTest.MathHelper/obj
